@@ -80,9 +80,7 @@ This project is a Digital Lock System developed using Arduino Uno, 4×4 Keypad, 
 
 ## Simulation
 
-Wokwi Project:
-https://wokwi.com/
-
+Wokwi Project:https://wokwi.com/projects/467316525575965697
 ## Conclusion
 
 The Digital Lock System successfully provides password-based access control using a keypad and servo motor. This project demonstrates the implementation of embedded security systems, user input handling, and actuator control, making it a practical and educational Arduino project.
